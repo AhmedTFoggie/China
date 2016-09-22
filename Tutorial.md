@@ -1,3 +1,5 @@
+![Wham! in China](/Wham! in China.jpg)
+
 # Georeferencing 
 
 1 Open a new project; set the CRS by typing EPSG 3415 in the filter box and choosing “South China Sea Lambert”
