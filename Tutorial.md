@@ -36,3 +36,5 @@
 10 Compare geo-referenced map to modern shapefile
 
 11 Save File
+
+![Wham! in China 3](/Wham! in China 3.jpg)
