@@ -1,6 +1,6 @@
-![Wham! in China](/Wham! in China.jpg)
-
 # Georeferencing with WHAM!
+
+![Wham! in China](/Wham! in China.jpg)
 
 1 Open a new project; set the CRS by typing EPSG 3415 in the filter box and choosing “South China Sea Lambert”
 
@@ -14,6 +14,7 @@
 
 5 Download Ifranview at http://www.irfanview.com/
 * Use Ifraview to convert the JPG file to TIFF
+![Geo Screenshot 2](/Geo Screenshot 2.png)
  
 6 In QGIS click on the Raster tab then select georeferncer
 * Use the georeferencer to add the TIFF version as a raster layer 
