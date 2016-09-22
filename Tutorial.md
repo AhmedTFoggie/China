@@ -8,6 +8,8 @@
 * Add Vector and load CHN_adm0.shp [a modern shapefile] to serve as georeferencing canvas.
 * Add Vector: CHN_adm1.shp
 
+![Wham! in China 2](/Wham! in China 2.jpg)
+
 3 For all – change the “properties” so they are not solid. Turn “labels” on for one of the city files [you may have to use both of them]
 
 4 Download China 1863 Map
