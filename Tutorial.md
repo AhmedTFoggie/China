@@ -1,6 +1,6 @@
 ![Wham! in China](/Wham! in China.jpg)
 
-# Georeferencing 
+# Georeferencing with WHAM!
 
 1 Open a new project; set the CRS by typing EPSG 3415 in the filter box and choosing “South China Sea Lambert”
 
@@ -17,6 +17,7 @@
  
 6 In QGIS click on the Raster tab then select georeferncer
 * Use the georeferencer to add the TIFF version as a raster layer 
+![Geo Screenshot](/Geo Screenshot.png)
 
 7 In the Geoferencer select the add point button (looks like a yellow star)
 * Add a point on the Raster file. 
